@@ -1,3 +1,4 @@
 # sanek-game
-create a first game 
+create a sanek game to funn
+
 
